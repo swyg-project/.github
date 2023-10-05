@@ -2,7 +2,13 @@
 
 ## Commit Message Convention
 
-**type: description 구조 사용**
+```
+type: description
+
+body (선택 사항)
+
+footer (선택사항)
+```
 
 [type] 
 - feat: 기능 추가
