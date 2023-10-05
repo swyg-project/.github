@@ -22,7 +22,7 @@ footer (선택사항)
 
 - main 
 - develop : 기능 개발을 위한 브랜치들을 병합하기 위해 사용. 안정적인 상태일 경우 develop 브랜치를 main 브랜치에 병합.
-- feature : feature/기능요약 형식 사용 ex) feature/home
+- feature : feature/(giver or taker)/기능요약 형식 사용 ex) feature/giver/home, feature/taker/home
 
 ## Isuse & Pull Request 
 
