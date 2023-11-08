@@ -1,11 +1,21 @@
 # 🎁 맞춤형 선물 고르기 서비스 : 요고어때
 <br>
 
-  <img src="https://github.com/swyg-project/.github/assets/65762430/735cfc35-b74c-4b50-b640-67450252b585">
+## 시연영상
+
+<div align="center">
+  <video style="margin-left: 500px" width="600" height="1400" src="https://github.com/swyg-project/.github/assets/128919388/cc888fa4-0cde-4b83-8a4b-3451cbd1e8fd"></video>
+</div>
+
+  <!-- 영상하고 겹쳐서 뺄게요 -->
+  <!-- <img src="https://github.com/swyg-project/.github/assets/65762430/735cfc35-b74c-4b50-b640-67450252b585"> -->
 
 
 <br>
 <br>
+
+## 개요
+
   해당 서비스를 통해 선물을 받는 사람을 생각하며 주고 싶은 가격대, 종류에 맞는 선물을 골라 리스트를 만든 후 이를 전송할 수 있습니다. <br>
   선물을 받는 사람이 어떤 것을 원할지 감이 잡히지 않는다면, 유형테스트를 통해 선물을 받는 사람을 생각하며 질문에 답을 하고, 테스트 결과로 추천 선물 리스트를 제공 받을 수 있습니다.
 
